@@ -29,3 +29,5 @@ stats/
 htmlcov/
 coverage.xml
 utils/live-view/
+config/custompickit.ini
+assets/item_properties_custom

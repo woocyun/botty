@@ -38,6 +38,7 @@ TEMPLATE_PATHS = [
     "assets\\npc",
     "assets\\shop",
     "assets\\item_properties",
+    "assets\\item_properties_custom",
     "assets\\chests",
     "assets\\gamble",
 ]
